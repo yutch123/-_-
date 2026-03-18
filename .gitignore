@@ -1,0 +1,17 @@
+# Visual Studio / C проекты
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# VS folders
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# временные
+*.tmp
+*.cache
